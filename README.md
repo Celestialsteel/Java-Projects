@@ -1,3 +1,3 @@
 This is the README for my Task-Tracker CLI 
 
-Project-URL is https://github.com/Celestialsteel/Java-Projects.git
+Project-URL is https://roadmap.sh/projects/task-tracker
